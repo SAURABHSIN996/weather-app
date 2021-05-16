@@ -79,7 +79,7 @@ weather.loading{
     position: relative;
 }
 
-weather.loading.after{
+weather.loading:after{
     visibility: visible;
     content: "loading.......";
     color: white;
